@@ -1,0 +1,17 @@
+:root{
+    --color-bg_top-header: #add8e6;
+    --color-link: #daa520;
+    --color-bg_low-header: #00008b;
+    --color-section_header: #ee82ee;
+    --color-primary: #1e90ff;
+    --color-secondary: #ffc0cb;
+    --color-white: #ffffff;
+    --color-black: #000000;
+    --color-bg_main: #B1B2B5;
+    --color-big-section: #228b22;
+    --color-section_footer: #f08080;
+    --color-small-section: #20b2aa;
+    --color-bg_footer: #23272a;
+    --color-bg_button: #7fffd4;
+    --color-button: #ffb6c1;
+}
